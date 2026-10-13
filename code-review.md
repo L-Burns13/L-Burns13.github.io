@@ -12,7 +12,7 @@ The review explains the existing functionality of each artifact, identifies area
 
 ### Code Review Video
 
-[View Code Review Video](PASTE-YOUR-VIDEO-LINK-HERE)
+[View Code Review Video](https://www.youtube.com/watch?v=oe_H05KqEcM)
 
 ---
 
