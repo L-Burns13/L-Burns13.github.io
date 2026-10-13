@@ -10,20 +10,14 @@ This artifact is my Inventory Tracking App from CS 360. It was created as an And
 
 For the CS 499 enhancement, I improved the inventory-management process. Users can now enter an item name and starting quantity before an item is saved, edit both the item name and quantity, and receive validation when required values are missing. These changes improved the usability of the application and gave users more control over their inventory data.
 
-<h3>Original Artifact</h3>
+### Original Artifact
 
-<a href="https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/original" target="_blank">
-View Original Inventory Tracking App
-</a>
+[View Original Inventory Tracking App](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/original)
 
-<h3>Enhanced Artifact</h3>
+### Enhanced Artifact
 
-<a href="https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/enhanced" target="_blank">
-View Enhanced Inventory Tracking App
-</a>
+[View Enhanced Inventory Tracking App](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/enhanced)
 
-<h3>Narrative</h3>
+### Narrative
 
-<a href="https://github.com/L-Burns13/L-Burns13.github.io/blob/main/artifacts/software-design/BURNS%20Narrative%20Milestone%20Two.docx" target="_blank">
-View Software Design & Engineering Narrative
-</a>
+[View Software Design & Engineering Narrative](https://github.com/L-Burns13/L-Burns13.github.io/blob/main/artifacts/software-design/BURNS%20Narrative%20Milestone%20Two.docx)
