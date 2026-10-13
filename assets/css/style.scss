@@ -23,15 +23,15 @@ h4 {
 }
 
 a {
-  color: #9bbcff;
+  color: #5b3f8c;
 }
 
 a:visited {
-  color: #c7a7ff;
+  color: #6a4fa3;
 }
 
 a:hover {
-  color: #ffffff;
+  color: #3f4f7a;
 }
 
 hr {
@@ -59,37 +59,4 @@ pre {
 .site-title,
 .site-title:visited {
   color: #ffffff;
-}
-
-nav a,
-.site-nav a {
-  background-color: #d8d2e8;
-  color: #3f4f6b;
-}
-
-nav a:visited,
-.site-nav a:visited {
-  color: #4f5f7a;
-}
-
-nav a:hover,
-.site-nav a:hover {
-  background-color: #c8bfdc;
-  color: #2f3f5a;
-}
-
-.wrapper > p:first-of-type a {
-  background-color: #d8d2e8;
-  color: #3f4f6b;
-  padding: 8px 10px;
-  text-decoration: none;
-}
-
-.wrapper > p:first-of-type a:visited {
-  color: #4f5f7a;
-}
-
-.wrapper > p:first-of-type a:hover {
-  background-color: #c8bfdc;
-  color: #2f3f5a;
 }
