@@ -2,7 +2,7 @@
 
 ## LaTisha Burns
 
-Home | Code Review | Software Design & Engineering | Algorithms & Data Structures | Databases
+[Home](index.md) | [Code Review](code-review.md) | [Software Design & Engineering](software-design.md) | [Algorithms & Data Structures](algorithms.md) | [Databases](databases.md)
 
 ---
 
