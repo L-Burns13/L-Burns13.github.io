@@ -12,12 +12,12 @@ For the CS 499 enhancement, I improved the inventory-management process. Users c
 
 ### Original Artifact
 
-[View Original Inventory Tracking App](artifacts/software-design/original/)
+[View Original Inventory Tracking App](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/original)
 
 ### Enhanced Artifact
 
-[View Enhanced Inventory Tracking App](artifacts/software-design/enhanced/)
+[View Enhanced Inventory Tracking App](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/enhanced)
 
 ### Narrative
 
-[View Software Design & Engineering Narrative](artifacts/software-design/BURNS%20Narrative%20Milestone%20Two.docx)
+[View Software Design & Engineering Narrative](https://github.com/L-Burns13/L-Burns13.github.io/blob/main/artifacts/software-design/BURNS%20Narrative%20Milestone%20Two.docx)
