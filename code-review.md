@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Code Review
 
 [Home](index.md) | Code Review | [Software Design & Engineering](software-design.md) | [Algorithms & Data Structures](algorithms.md) | [Databases](databases.md)
