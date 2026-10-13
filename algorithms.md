@@ -12,12 +12,12 @@ For the CS 499 enhancement, I added functionality to retrieve appointments in ch
 
 ### Original Artifact
 
-[View Original Appointment Service](artifacts/algorithms/original/)
+[View Original Appointment Service](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/algorithms/original)
 
 ### Enhanced Artifact
 
-[View Enhanced Appointment Service](artifacts/algorithms/enhanced/)
+[View Enhanced Appointment Service](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/algorithms/enhanced)
 
 ### Narrative
 
-[View Algorithms & Data Structures Narrative](artifacts/algorithms/BURNS%20Narrative%20Milestone%20Three.docx)
+[View Algorithms & Data Structures Narrative](https://github.com/L-Burns13/L-Burns13.github.io/blob/main/artifacts/algorithms/BURNS%20Narrative%20Milestone%20Three.docx)
