@@ -12,12 +12,12 @@ For the CS 499 enhancement, I added functionality to retrieve appointments in ch
 
 ### Original Artifact
 
-[View Original Appointment Service](PASTE-ORIGINAL-LINK-HERE)
+[View Original Appointment Service](artifacts/algorithms/original/)
 
 ### Enhanced Artifact
 
-[View Enhanced Appointment Service](PASTE-ENHANCED-LINK-HERE)
+[View Enhanced Appointment Service](artifacts/algorithms/enhanced/)
 
 ### Narrative
 
-[View Algorithms & Data Structures Narrative](PASTE-NARRATIVE-LINK-HERE)
+[View Algorithms & Data Structures Narrative](artifacts/algorithms/BURNS%20Narrative%20Milestone%20Three.docx)
