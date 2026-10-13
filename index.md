@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Computer Science ePortfolio
 
 ## LaTisha Burns
