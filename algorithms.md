@@ -16,7 +16,7 @@ For the CS 499 enhancement, I added functionality to retrieve appointments in ch
 
 ### Enhanced Artifact
 
-[View Enhanced Appointment Service](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/software-design/enhanced)
+[View Enhanced Appointment Service](https://github.com/L-Burns13/L-Burns13.github.io/tree/main/artifacts/algorithms/enhanced)
 
 ### Narrative
 
