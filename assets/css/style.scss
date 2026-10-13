@@ -77,3 +77,19 @@ nav a:hover,
   background-color: #c8bfdc;
   color: #2f3f5a;
 }
+
+.wrapper > p:first-of-type a {
+  background-color: #d8d2e8;
+  color: #3f4f6b;
+  padding: 8px 10px;
+  text-decoration: none;
+}
+
+.wrapper > p:first-of-type a:visited {
+  color: #4f5f7a;
+}
+
+.wrapper > p:first-of-type a:hover {
+  background-color: #c8bfdc;
+  color: #2f3f5a;
+}
