@@ -12,12 +12,12 @@ For the CS 499 enhancement, I improved the filtering system by adding controls f
 
 ### Original Artifact
 
-[View Original Animal Shelter Dashboard](PASTE-ORIGINAL-LINK-HERE)
+[View Original Animal Shelter Dashboard](artifacts/databases/original/)
 
 ### Enhanced Artifact
 
-[View Enhanced Animal Shelter Dashboard](PASTE-ENHANCED-LINK-HERE)
+[View Enhanced Animal Shelter Dashboard](artifacts/databases/enhanced/)
 
 ### Narrative
 
-[View Databases Narrative](PASTE-NARRATIVE-LINK-HERE)
+[View Databases Narrative](artifacts/databases/BURNS%20Narrative%20Milestone%20Four.docx)
