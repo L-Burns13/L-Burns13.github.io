@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Databases
 
 [Home](index.md) | [Code Review](code-review.md) | [Software Design & Engineering](software-design.md) | [Algorithms & Data Structures](algorithms.md) | Databases
