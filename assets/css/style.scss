@@ -60,3 +60,11 @@ pre {
 .site-title:visited {
   color: #c7a7ff;
 }
+
+.markdown-body table td {
+  background-color: #c8bfdc !important;
+}
+
+.markdown-body table td:hover {
+  background-color: #2f3f6f !important;
+}
