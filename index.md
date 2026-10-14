@@ -1,6 +1,6 @@
 # Computer Science ePortfolio
 
-## LaTisha Burns
+<h2 class="home-name">LaTisha Burns</h2>
 
 [Home](index.md) | [Code Review](code-review.md) | [Software Design & Engineering](software-design.md) | [Algorithms & Data Structures](algorithms.md) | [Databases](databases.md)
 
