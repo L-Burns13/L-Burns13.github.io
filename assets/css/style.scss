@@ -1,70 +1,103 @@
 ---
 ---
 
+/* Imports the existing GitHub Pages theme */
 @import "{{ site.theme }}";
 
+/* MAIN PAGE
+   Controls the page background and default text color. */
 body {
   background-color: #121212;
   color: #e6e6e6;
 }
 
+/* MAIN CONTENT AREAS
+   Keeps the main page sections the same dark color as the body. */
 main,
 .page-content,
 .wrapper {
-  background-color: #121212;
-  color: #e6e6e6;
+  background-color: #121212; /* Very dark charcoal */
+  color: #e6e6e6;  /* Light gray text */
 }
 
+/* HEADINGS
+   Controls headings such as page titles and section titles. */
 h1,
 h2,
 h3,
 h4 {
-  color: #e6e6e6;
+  color: #e6e6e6; /* Light gray */
 }
 
+/* NORMAL LINKS
+   Controls links that have not been clicked yet. */
 a {
-  color: #5b3f8c;
+  color: #5b3f8c; /* Dark muted purple */
 }
 
+/* VISITED LINKS
+   Controls links after they have been clicked. */
 a:visited {
-  color: #6a4fa3;
+  color: #6a4fa3; /* Medium dark purple */
 }
 
+/* LINK HOVER
+   Controls link text while the mouse is over a link. */
 a:hover {
   color: #3f4f7a;
 }
 
+/* HORIZONTAL DIVIDERS
+   Controls the lines created by --- in Markdown. */
 hr {
   border: 0;
-  border-top: 1px solid #444;
+  border-top: 1px solid #444; /* Medium-dark gray */
 }
 
+/* INLINE CODE
+   Controls small pieces of code written inside backticks. */
 code {
-  background-color: #1e1e1e;
-  color: #f1f1f1;
+  background-color: #1e1e1e; /* Dark gray background */
+  color: #f1f1f1; /* Very light gray text */
 }
 
+/* CODE BLOCKS
+   Controls larger blocks of code. */
 pre {
-  background-color: #1e1e1e;
-  color: #f1f1f1;
-  border: 1px solid #333;
+  background-color: #1e1e1e; /* Dark gray background */
+  color: #f1f1f1; /* Very light gray text */
+  border: 1px solid #333; /* Dark gray border */
 }
 
+/* SITE HEADER AND FOOTER
+   Controls built-in theme header/footer areas if they are used. */
 .site-header,
 .site-footer {
-  background-color: #181818;
-  border-color: #333;
+  background-color: #181818; /* Very dark gray */
+  border-color: #333; /* Dark gray border */
 }
 
+/* SITE TITLE
+   Controls the "LBurns" title at the top of the site. */
 .site-title,
 .site-title:visited {
-  color: #c7a7ff;
+  color: #c7a7ff; /* Suppose to be Light lavender */
 }
 
+/* NAVIGATION TABLE BACKGROUND
+   Controls the light-colored boxes behind the navigation links. */
 .markdown-body table td {
-  background-color: #c8bfdc !important;
+  background-color: #c8bfdc !important; /* Light lavender-gray */
 }
 
+/* NAVIGATION TABLE HOVER
+   Changes the entire navigation box when you hover over it. */
 .markdown-body table td:hover {
-  background-color: #2f3f6f !important;
+  background-color: #2f3f6f !important; /* Dark blue-purple */
+}
+
+/* NAVIGATION LINK TEXT WHILE HOVERING
+   Makes the link text light when the navigation box turns dark. */
+.markdown-body table td:hover a {
+  color: #ffffff !important; /* White text for strong contrast */
 }
