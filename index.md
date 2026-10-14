@@ -16,7 +16,7 @@ Completing the Computer Science program at Southern New Hampshire University has
 
 One of the biggest things I learned about myself is that I work well when I can analyze an existing problem, understand how the different pieces fit together, and then determine how the solution can be improved. I am more comfortable building from existing code or examples than beginning a large program completely from scratch. Instead of seeing that only as a weakness, the capstone helped me recognize that understanding, maintaining, and improving existing software are also important skills in computer science. During CS 499, I returned to projects I had created earlier in the program, reviewed code I had not worked with in some time, identified limitations, and made improvements based on skills I developed later in the degree program. Creating my ePortfolio allowed me to see how much more I understood about those projects compared with when I originally created them.
 
-My professional goals have also become clearer throughout the program. I am still interested in software development, but I have also realized how broad the computer science field is and that there are many technical roles that do not involve writing code all day. My current goal is to enter an entry-level software development or IT-related position where I can gain practical experience and continue strengthening my technical skills. I do not expect to finish my degree knowing everything I will need throughout my career. Instead, I see the degree as a foundation that has given me experience with several areas of computing and taught me how to continue learning as technologies and professional expectations change. <br>
+My professional goals have also become clearer throughout the program. I am still interested in software development, but I have also realized how broad the computer science field is and that there are many technical roles that do not involve writing code all day. My current goal is to enter an entry-level software development or IT-related position where I can gain practical experience and continue strengthening my technical skills. I do not expect to finish my degree knowing everything I will need throughout my career. Instead, I see the degree as a foundation that has given me experience with several areas of computing and taught me how to continue learning as technologies and professional expectations change. 
 
 
 ### **Collaboration and Communication** 
@@ -27,7 +27,7 @@ My previous work experience in management and supervision also contributes to th
 The CS 499 code review was another example of how technical communication can support collaboration and decision-making. I had to review three previous projects, explain how the existing code worked, identify weaknesses, and describe the enhancements I planned to make. I needed to communicate enough technical information to explain my reasoning without simply reading individual lines of code. Preparing the review helped me practice presenting technical information in a way that another developer or manager could follow and use when evaluating the proposed changes.
 
 
-### **Data Structures and Algorithms** <br>
+### **Data Structures and Algorithms** 
 My coursework also helped me better understand the role of data structures and algorithms in software development. Earlier in the program, it was easy to focus mostly on whether a program worked. As I gained more experience, I began to understand that there can be several ways to solve the same problem, and the structure used to store or retrieve information can affect how useful and efficient a solution is.
 
 I gained experience working with collections such as lists and maps, along with sorting, searching, validation, and automated testing. One important lesson was that a single data structure does not have to be the best choice for every operation. For example, storing information in a structure that provides convenient access by a unique identifier may work well for one task, while organizing that same information into a list may make more sense when it needs to be sorted or searched differently.
@@ -35,7 +35,7 @@ I gained experience working with collections such as lists and maps, along with 
 This area of the program strengthened my problem-solving skills because it required me to think about how information should be organized and what operations the software needs to perform. It also helped me understand that computing solutions involve trade-offs. A solution should not only produce the correct result but should also be designed so that it can be understood, maintained, tested, and adapted as requirements change.
 
 
-### **Software Engineering and Databases** <br>
+### **Software Engineering and Databases** 
 Software engineering was one of the broadest areas of my coursework because it required me to combine programming with design, testing, user needs, and data management. I worked with several programming languages and development environments throughout the program, including Java, Python, C++, SQL, Android Studio, IntelliJ, and Jupyter-based environments. Each project required a slightly different way of approaching the problem.
 
 One course I particularly enjoyed was CS 330 because the graphics projects gave me immediate visual feedback. Even though the course required C++, which has been one of the more challenging languages for me, seeing the result of the code on the screen helped me understand the relationship between the program logic and its output. Experiences like this helped me learn that I understand technical concepts better when I can see how individual pieces of a program contribute to a larger result.
@@ -44,7 +44,7 @@ Database coursework also helped me understand how software applications manage i
 Through these experiences, I became more aware that software is made up of interconnected components. A change to a user interface may require changes to application logic, validation, database operations, and testing. The capstone reinforced this because each enhancement required me to consider whether a change would affect functionality that was already working.
 
 
-### **Security** <br>
+### **Security** 
 Security became another important part of how I evaluate software. Earlier programming assignments often focused on whether the application performed the required task. Later coursework required me to think about how the same software could fail, how information could be exposed, and how someone might intentionally misuse a program.
 
 CS 410, Reverse Software Engineering, was especially useful in developing this perspective. During the course, I examined existing programs and identified vulnerabilities rather than only creating new functionality. One project contained a username that was collected but never validated and a weak hard-coded password. Reviewing those issues helped me understand why a program can appear to function correctly while still containing serious security weaknesses.
@@ -56,7 +56,7 @@ These experiences have encouraged me to approach development with a stronger sec
 
 ---
 
-### **ePortfolio and Artifact Overview** <br>
+### **ePortfolio and Artifact Overview** 
 The three artifacts in my ePortfolio represent the major technical areas required for the capstone: Software Design and Engineering, Algorithms and Data Structures, and Databases. Although they were created in different courses and use different technologies, they fit together because each enhancement required me to review an existing program, identify limitations, and use skills I developed throughout the degree program to improve it.
 
 The first artifact is my Inventory Tracking App from CS 360, which represents Software Design and Engineering. The application was created in Java for Android and uses SQLite to store inventory information. For the capstone enhancement, I improved the process for adding and editing inventory records. The original application automatically created generic inventory items with a quantity of zero and only allowed the quantity to be edited. I enhanced the application so users can enter an item name and starting quantity, edit both values later, and receive validation when required information is missing. This artifact demonstrates experience with Java, Android development, user-interface behavior, database interaction, validation, and testing.
@@ -70,7 +70,7 @@ Together, these three artifacts demonstrate more than three individual programmi
 
 ---
 
-### **Course Outcomes** <br>
+### **Course Outcomes** 
 *Course Outcome 1* focuses on building collaborative environments that support organizational decision-making. My code review required me to analyze existing software, identify areas that could be improved, and explain why the proposed changes would be useful before making them. Completing the code review showed me how reviewing software before making changes can support better decision-making by identifying weaknesses, discussing possible solutions, and giving others the context needed to understand why a change is being proposed. My previous professional experience working in management and supervision also gives me experience communicating with different people, considering different perspectives, and working toward shared goals.
 
 *Course Outcome 2* focuses on professional oral, written, and visual communication. The code review video required oral and visual communication, while the milestone narratives, journals, peer responses, and professional self-assessment required written communication. These assignments also required me to adjust the amount of technical detail depending on whether I was communicating with an instructor, peer, or a more general audience. This helped me become more aware that technical information needs to be communicated differently depending on the audience and purpose.
@@ -82,7 +82,7 @@ Together, these three artifacts demonstrate more than three individual programmi
 *Course Outcome 5* focuses on developing a security mindset that anticipates vulnerabilities and protects data and resources. My security and reverse-engineering coursework taught me to look beyond whether a program functions correctly and consider issues such as weak credentials, missing validation, and insecure handling of data. In CS 410, for example, I identified code that collected a username without validating it and used a weak hard-coded password. I also learned that validation should happen before data is accepted or stored, and that secure design means anticipating unexpected or malicious input instead of assuming users will always provide valid information. During the capstone, I continued applying this mindset by strengthening input validation and considering how invalid input or unexpected results should be handled within the enhanced applications.
 
 
-### **Conclusion** <br>
+### **Conclusion** 
 Completing the Computer Science program and developing this ePortfolio has shown me how much I have learned while also showing me that computer science requires continuous learning. I am more comfortable analyzing code, identifying problems, working with different programming languages and technologies, testing changes, and considering how software design decisions affect users and other parts of a system.
 
 I still have areas where I want to improve, particularly building larger programs independently and becoming more confident writing code without relying as heavily on existing examples. At the same time, I have learned that being able to understand and improve existing systems is a valuable skill of its own. I am leaving the program with a stronger technical foundation, a greater awareness of software security and quality, and a better understanding of the professional direction I want to explore.
